@@ -30,10 +30,20 @@ O _Header_ é o componente presente em todas as páginas do site da vinheria, e 
   - Blog
   - FAQ 
 
-A estruturação do _Header_ se encontra na pasta [Header]("/src/components/Header")
+A estruturação e estilização do _Header_ se encontra no [arquivo de mesmo nome]("./src/components/Header/index.js"), dentro da pasta "Header", em "Components".
 
+A imagem utilizada como logtipo fictício da _Vinheria Galo_ se encontra dentro da [pasta "imgs"](./src/imgs/Logo%20vinicola%20galo.png)
 
-NECESSARIO APENAS O COMANDO NPM INSTALL NA PASTA PRINCIPAL PARA ADICIONAR A BIBLIOTECA STYLED-COMPONENTS AUTOMATICAMENTE
+Por fim, o projeto ainda conta com um _PlaceHolder_, que informa a respeito do estágio incompleto da página WEB (uma vez que o propósito do projeto era apenas o desenvolvimento do _Header_)
 
+**Atenção:** O projeto não se encontra atualmente responsivo para todos os dispositivos, funcionando adequadamente apenas em dispositivos acima de 700px.
+___
+## Como executar o projeto
+Para executar o projeto, é necessário copiar o repositório em uma máquina local (através de um _IDE_, por exemplo), e ter instalado o ambiente de desenvolvimento [Node](https://nodejs.org/en).
 
-PROJETO NAO RESPONSIVO APENAS FUCNIONA EM DISPOSITIVOS ACIMA DE 700PX
+Uma vez que os arquivos estão presentes na máquina, é necessário utilizar o comando "npm install" através de um terminal de comando na pasta principal, para que a biblioteca styled-components também seja adicionada aos arquivos*
+
+Por fim, é necessário somente utilizar o comando "npm start" para que a página com o _PlaceHolder_ e o _Header_ seja exibida.
+
+*atenção para mudar o diretório utilizado para a pasta principal dos arquivos
+
