@@ -12,7 +12,9 @@
 
 **Ano:** 2023
 ___
-<img src="./src/imgs/Logo%20vinicola%20galo.png">
+<p align="center">
+<img src="./src/imgs/Logo%20vinicola%20galo.png" align=center width="300px" height="auto">
+</p>
 
 ## Descrição do Projeto
 O projeto é voltado para a aplicação prática dos conceitos aprendidos em sala de aula, na matéria de Web Development with JavaScript. O conteúdo aqui praticado é a utilização da biblioteca React, bem como de seus módulos e componentes, para a construção de elementos HTML/CSS/JavaScript de maneira mais rápida e fácil visto que, ao invés de escrevermos toda a estruturação do site manualmente, utilizaríamos os recursos prontos do React (e derivados).
