@@ -12,7 +12,7 @@ const Head = styled.header`
     padding: 1em;
     background-color: #ddd;
     box-shadow: 0em 0.3125em 0.625em 0em #aaa;
-
+    z-index: 2;
 `
 
 const LogoHeader = styled.div`
